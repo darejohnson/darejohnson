@@ -5,7 +5,7 @@
 <img align="right" alt="deeplearning" width="200" src="https://cdn-images-1.medium.com/v2/resize:fit:2600/1*QyTr6JbNP1PaPI6FjWZYTA.gif">
 
 
-- 💬 My work-arounds **machine learning, deep learning and data science projects.**
+- 💬 My work-arounds are **machine learning, deep learning and data science projects.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
