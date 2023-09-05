@@ -2,7 +2,6 @@
 <h3 align="center">I love building data products and proffering analytic solutions.</h3>
 
 <img align="left"> <img src="https://komarev.com/ghpvc/?username=darejohnson&label=Profile%20views&color=0e75b6&style=flat" alt="darejohnson" /> </p>
-<img align="right" alt="deeplearning" width="200" src="https://cdn-images-1.medium.com/v2/resize:fit:2600/1*QyTr6JbNP1PaPI6FjWZYTA.gif">
 
 
 - 💬 My work-arounds are **machine learning, deep learning and data science projects.**
