@@ -1,6 +1,6 @@
-<h4 align="left">Hi 👋, I'm Dare</h4>
-<h5 align="left">I love building data products and analytic solutions. <br>
-My work-arounds are <b>machine learning</b>, <b>deep learning</b> and <b>data science projects.</b></h5>
+<h3 align="left">Hi 👋, I'm Dare</h3>
+<h4 align="left">I love building data products and analytic solutions. <br>
+My work-arounds are <b>machine learning</b>, <b>deep learning</b> and <b>data science projects.</b></h4>
 
 
 <h5>See latest 📕 blog posts 👉(https://dev.to/dare_johnson)</h5>
