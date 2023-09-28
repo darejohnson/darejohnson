@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Dare</h1>
-<h3 align="center">I love building data products and proffering analytic solutions.</h3>
-
-<img align="left"> <img src="https://komarev.com/ghpvc/?username=darejohnson&label=Profile%20views&color=0e75b6&style=flat" alt="darejohnson" /> </p>
+<h1 align="left">Hi 👋, I'm Dare</h1>
+<h3 align="left">I love building data products and proffering analytic solutions.</h3>
 
 
 - 💬 My work-arounds are **machine learning, deep learning and data science projects.**
 
 **📕 Latest dev.to posts [@dare_johnson](https://dev.to/dare_johnson)**
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
