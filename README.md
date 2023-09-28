@@ -1,15 +1,14 @@
-<h1 align="left">Hi 👋, I'm Dare</h1>
-<h3 align="left">I love building data products and proffering analytic solutions.</h3>
+<h4 align="left">Hi 👋, I'm Dare</h4>
+<h5 align="left">I love building data products and analytic solutions. <br>
+My work-arounds are <b>machine learning</b>, <b>deep learning</b> and <b>data science projects.</b></h5>
 
 
-- 💬 My work-arounds are **machine learning, deep learning and data science projects.**
-
-**📕 Latest dev.to posts [@dare_johnson](https://dev.to/dare_johnson)**
+<h5>See latest 📕 blog posts 👉(https://dev.to/dare_johnson)</h5>
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Let's connect:</h4>
 <p align="left">
 <a href="https://dev.to/dare_johnson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://twitter.com/toluwanijohnson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
